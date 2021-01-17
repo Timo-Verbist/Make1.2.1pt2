@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Info about our project comes here
+AGE
 """
 
 __author__ = "Timo Verbist"
